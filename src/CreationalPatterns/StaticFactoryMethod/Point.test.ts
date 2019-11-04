@@ -1,6 +1,6 @@
 import { Point } from "./Point";
 
-describe("Factory method tests", () => {
+describe("Static Factory Method tests", () => {
   it("should implemented method of creating cartesian point", () => {
     const p1 = Point.createCartesianPoint(1, 5);
 
