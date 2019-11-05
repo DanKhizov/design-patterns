@@ -4,7 +4,7 @@
 
 1. [Абстрактная фабрика (Abstract Factory)](src/AbstractFactory/AbstractFactory.md)
 1. [Строитель (Builder)](src/Builder/Builder.md)
-1. [Фабричный метод (Factory Method)](src/FactoryMethod/FactoryMethod.md)
+1. [Шаблонный метод (Factory Method)](src/FactoryMethod/FactoryMethod.md)
 1. [Одиночка (Singleton)](src/Singleton/Singleton.md)
 1. [Прототип (Prototype)](src/Prototype/Prototype.md)
 
